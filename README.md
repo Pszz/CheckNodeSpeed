@@ -1,2 +1,6 @@
 # CheckNodeSpeed
-Simple front-end node speed measurement
+A package for front-end detection of URL node speed.
+
+Developed using Typescript.
+
+Demo: several SUI node tests, using Post queries.
